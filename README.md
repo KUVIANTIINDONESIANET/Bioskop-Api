@@ -1,4 +1,4 @@
-<h1>Bioskop API - Zhirrr</h1>
+<h1>Bioskop API - KUVIANTI</h1>
 
 <h4>Data JSON yang akan didapatkan</h4>
 <ul>
